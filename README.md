@@ -1,1 +1,1 @@
-# All-type-of-sorting-technique-using-c-
+# All-type-of-sorting-technique-using-c++
